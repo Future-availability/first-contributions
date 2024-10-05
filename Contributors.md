@@ -50,6 +50,7 @@ hello world! I'm [sanika bhalerao](https://github.com/SanikaBhalerao1345) and th
 - Keep it simple, keep it smart. Code is art, and I'm Maddzon.
 - Hello World! I'm [Venkat Prashanth](https://github.com/m-vp). **Hi, I'm a  CTF player of team bi0sblr, I do Web Exploitation. I am also an aspiring Full Stack Developer. Feel free to connect on [Linkedin](https://www.linkedin.com/in/venkat-prashanth-m/)!**
 - Namaste Duniya! I`m [Mayukh Mandal](https://github.com/Mayukh-Mandal2005) and this is my **first time contributing to an open source project! You can connect with me on [LinkedIn](www.linkedin.com/in/mayukh-mandal-a8a938276)**
+- Hello World! I`m [Ashil Rahim](https://github.com/ashilrahim) and this is my **first time contributing to an open source project!**
 -Hello, it's Christina RF, *Your dreams shall come true, Be consistent*
 - Hello World! I'm [Ronak Singh ](https://github.com/ronaksingh27). **Cheers to the community of never ending learning!**
 - Hello World! I'm Dilip Hiremath
@@ -98,6 +99,7 @@ hello world! I'm [sanika bhalerao](https://github.com/SanikaBhalerao1345) and th
 - Hi contibutors! I'm [Thilina Sandaruwan](https://github.com/tsjayakody). **I'm excited to join the open-source community and contribute to projects that make a difference.**
 - Hello, World! I'm [John-Alvin Ambalong](https://github.com/jambalong). Thank you for the opportunity! I use neovim btw.
 - [Ananya S Kaligal]
+- Hello World, This is my first open source contribution !! I am [Adiiiikaushik](https://github.com/Adiiiikaushik/)
 - Hi [Ocy-6]
 - Hey! My name is [Jay Calderon](https://github.com/cald0145) and I'm a student web developer from Canada 🇨🇦, I'm currently studying at Algonquin College. 👨🏽‍💻 **Check out my site and lets connect! [My Website](https://jaycalderon.ca), also here is my linkedin: [LinkedIn](https://www.linkedin.com/in/jaycaldev)!** 
 - Gregor was here!
@@ -8506,3 +8508,4 @@ Didac Vilarnau
 - [Asley Echarry](https://github.com/asleybach) **Hello from Brazil kkkk** 
 - Hey there first contribution from [Francisco Molina](https://github.com/GhostlyCoder20)
 - **Hey there this is my second contribution from India** [Nikson](https://github.com/Nikson2003)
+- [Katarzyna Srebro](https://github.com/ksrebro-dev) **Hello Open Source!**
